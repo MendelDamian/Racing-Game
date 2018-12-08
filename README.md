@@ -7,10 +7,10 @@
 - Log.py
   - Class of objects to avoid
 - Game.py
-  - Contains Car object, pygame init, handling events and the appearing text
+  - Contains Car object, pygame init, handling events, menu and the appearing text
 - functions.py
   - The main game loop
-- few .png images of our car and log
+- few .png images of our car, menu and log
 
 ## How to move
 
